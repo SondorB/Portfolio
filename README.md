@@ -65,25 +65,4 @@ Bachelor of Science Business Administration – Business Information and Analyti
       </ul>
     </td>
   </tr>
-  <tr>
-    <th>CliftonStrengths (Fall 2018)</th>
-    <th>Other Skills</th>
-  </tr>
-  <tr>
-    <td>
-      <ol>
-        <li>Responsibility</li>
-        <li>Learner</li>
-        <li>Discipline</li>
-        <li>Developer</li>
-        <li>Achiever</li>
-      </ol>
-    </td>
-    <td>
-      <ul>
-        <li>Teaching</li>
-        <li>Facilitating</li>
-      </ul>
-    </td>
-  </tr>
 </table>
