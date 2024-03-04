@@ -15,12 +15,10 @@
 
 ## Education
 ### University of Denver, Daniels College of Business
-Bachelor of Science Business Administration – Business Information and Analytics, June 2022
+Bachelor of Science Business Administration – Business Information and Analytics, June 2024
 
-- **Margery Reed Service Award:** Recognizes outstanding commitment to Daniels Undergraduate Programs.
-- **ANDREW H. WOOD Award:** Given to students with the highest scholarship ranking in the 2021-2022 class.
-- **Daniels Award for Excellence:** Awarded for outstanding contributions to the College, demonstrating leadership, ethical behavior, diversity appreciation, and community service.
-- **Outstanding Business Information and Analytics Undergraduate:** Recognized for work within Business Information and Analytics.
+- **Dean's List:** Winter Qtr 2021, Spring Qtr 2021
+- **Hornbeck Scholar:** Winter Qtr 2021
 
 <!-- Daniels Distinction Portfolio -->
 <a name="DanielsDistinction"></a>
@@ -40,7 +38,7 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
 <hr>
 
 ## Jobs and Internships
-*See my [resume](/HannahMcDonaldResume.pdf) and [LinkedIn](https://www.linkedin.com/in/hannah-m-mcdonald/)*
+*See my [resume](/HannahMcDonaldResume.pdf) and [LinkedIn](https://www.linkedin.com/in/sondor-bayarbat/)*
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
@@ -67,7 +65,7 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
         <li>Microsoft Visual Studio</li>
         <li>Tableau</li>
         <li>PowerBI</li>
-        <li>Trello</li>
+        <li>PowerPivot</li>
       </ul>
     </td>
     <td>
